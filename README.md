@@ -1,0 +1,1 @@
+# 2x2_rubix_cube_algorithum_generator_gui
